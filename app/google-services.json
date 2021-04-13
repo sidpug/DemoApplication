@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343685597749",
+    "project_id": "demoapplication-d5e7b",
+    "storage_bucket": "demoapplication-d5e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343685597749:android:60cecde4f8054c664eff7c",
+        "android_client_info": {
+          "package_name": "com.pugs.DemoApplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343685597749-vj4ogamffscjfh77t580okrsdnjm9k0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCugeP8p075G0OnAWo6J6iCa18SsitH48I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343685597749-vj4ogamffscjfh77t580okrsdnjm9k0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
